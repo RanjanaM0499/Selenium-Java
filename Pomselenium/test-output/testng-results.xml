@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-03-10T19:47:41 IST" name="Default suite" finished-at="2026-03-10T19:52:03 IST" duration-ms="261470">
+    <groups>
+    </groups>
+    <test started-at="2026-03-10T19:47:41 IST" name="Default test" finished-at="2026-03-10T19:52:03 IST" duration-ms="261470">
+      <class name="utilsnew.Testnew">
+        <test-method is-config="true" signature="startReport()[pri:0, instance:utilsnew.Testnew@8462f31]" started-at="2026-03-10T19:46:01 IST" name="startReport" finished-at="2026-03-10T19:47:41 IST" duration-ms="100069" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method is-config="true" signature="setData()[pri:0, instance:utilsnew.Testnew@8462f31]" started-at="2026-03-10T19:47:41 IST" name="setData" finished-at="2026-03-10T19:48:24 IST" duration-ms="42383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setData -->
+        <test-method is-config="true" signature="writeTest()[pri:0, instance:utilsnew.Testnew@8462f31]" started-at="2026-03-10T19:48:24 IST" name="writeTest" finished-at="2026-03-10T19:48:57 IST" duration-ms="33303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- writeTest -->
+        <test-method signature="testNew()[pri:0, instance:utilsnew.Testnew@8462f31]" started-at="2026-03-10T19:48:57 IST" name="testNew" finished-at="2026-03-10T19:51:24 IST" duration-ms="146787" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNew -->
+        <test-method is-config="true" signature="stopReport()[pri:0, instance:utilsnew.Testnew@8462f31]" started-at="2026-03-10T19:51:24 IST" name="stopReport" finished-at="2026-03-10T19:52:03 IST" duration-ms="38730" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopReport -->
+      </class> <!-- utilsnew.Testnew -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

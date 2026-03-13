@@ -2,6 +2,6 @@ package org.newcode.seleniumBase;
 
 public enum Browser {
 	
-	CHROME, FIREFOX, EDGE,SAFARI
+	CHROME, FIREFOX, EDGE,
 
 }
